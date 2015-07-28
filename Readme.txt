@@ -19,7 +19,7 @@ the text version is included in this package
 
 TAPR_Open_Hardware_License_v1.0.txt	 MD5-659518fa65dbbe6958a8ad2acb2aae1a
 
-Software, sourcecode and documentation are licensed under the MIT License
+Software, sourcecode and documentation are licensed under the MIT License (Included)
 
 
 
