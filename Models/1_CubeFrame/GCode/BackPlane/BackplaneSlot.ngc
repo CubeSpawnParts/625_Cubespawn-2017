@@ -1,0 +1,22 @@
+%
+(CubeSpawn)
+(T200 2 Flute Endmill, diameter: ~ 0.310" TLO 0)
+(T231 1/4 Center Drill, TLO 1.366)
+(T323 Jobber Drill .230, TLO 2.787)
+(Longest TLO = 2.787 + Cut Depth = 1.20)
+(Z0 must be 2.79+ from limit + Safe Height)
+G90 G20 G49 
+M3 S300
+G0   Z0.2500
+X01.126 Y2.269 
+Z0
+G1   Z-0.3937    F10
+X1.768
+Y1.908
+X1.126
+G0 Z0.25
+X-3.000 Y4.000
+(change to T200 TLO 0)       
+M05
+M30
+%

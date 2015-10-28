@@ -1,0 +1,20 @@
+%
+(CubeSpawn)
+(T200 2 Flute Endmill, diameter: ~ 0.310" TLO 0)
+(Longest TLO = 2.787 + Cut Depth = 1.20)
+(Z0 must be 2.79+ from limit + Safe Height)
+G90 G20 G49 
+M3 S300
+G0   Z0.2500 
+X0.970 Y3.2485
+   Z0.000
+G1 Z-.320 F20 
+   X3.249
+   Y0.970
+   X0.970
+   Y3.2485
+G0 Z0.250
+ X-3.000 Y4.000 (home)
+M05
+M30
+%
