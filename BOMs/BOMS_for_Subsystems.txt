@@ -1,0 +1,30 @@
+The Custom Parts in this list should be in the model Folders as Google/Trimble Sketchup Files
+They are logically grouped by physical subsystem.
+
+BOM For Enclosure (CubeFrame) Updated 10-29-2015
+(QTY) Description
+(1)544x25x75 mm aluminum extrusion bar
+(8)25mm 3 way keyed corners
+(8)25x25mm 90 Deg angle brackets
+(10)596x297x3mm Aluminum skin plates
+(16)544x25x25mm aluminum extrusion bars
+(24)M6x1x22mm button head socket head cap screws (BH-SHCS)
+(40)M6x1x10mm Pan head socket head cap screws (FH-SHCS)
+(166)M6x1x10mm flat head socket head cap screws (PH-SHCS)
+(166)M6x1 Weld Nuts
+(22)M6x1x10mm button head socket head cap screws (BH-SHCS)
+(12)Rail Spacers
+(4)Rails (Part # THK FBW256OR 560L)
+
+
+BOM for Backplane Updated 10-29-2015
+WIP as of the update
+
+ElecModule
+Not started yet
+
+MechModule
+Not started yet
+
+Shell
+Not started yet

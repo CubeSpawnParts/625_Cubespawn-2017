@@ -46,14 +46,6 @@ Quick, requires only a few basic tools, Best solution for a quick start to a bus
 Keep in mind, even under best case times, this is NOT a weekend project, it takes time to build/assemble/setup/calibrate a system of machines, even when they are designed to work together. and the effort invested in ensuring everything is setup and working properly pays you back in less problems and higher quality production.
 
 
-
-
-
-
-
-
-
-
 How does it work?
 
 Each Cube contains a machine, built for a specific purpose, initially it will be one of the following 5 machines:
