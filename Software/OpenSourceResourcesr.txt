@@ -8,7 +8,7 @@ http://www.ros.org/
 ROS Industrial (ROS for industry) from SwRI
 http://rosindustrial.org/
 
-ROS also provides a visualization and simulation enviroment.
+ROS also provides a visualization and simulation environment.
 http://wiki.ros.org/rviz
 
 MTConnect to provide a generic, industry standard interface between modules with differing capabilities and architectures.
