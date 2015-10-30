@@ -1,0 +1,23 @@
+There are several pieces of existing open source software that, when combined will form a comprehensive control system for machine tool and robotic hybrid systems
+
+They are:
+ROS (the Robot Operating System)
+
+http://www.ros.org/
+
+ROS Industrial (ROS for industry) from SwRI
+http://rosindustrial.org/
+
+ROS also provides a visualization and simulation enviroment.
+http://wiki.ros.org/rviz
+
+MTConnect to provide a generic, industry standard interface between modules with differing capabilities and architectures.
+http://www.mtconnect.org/
+
+
+Machinekit (CNC controller) to translate Gcode into motion on several different types of embedded ARM controller (R-Pi, BBB, others)
+http://www.machinekit.io/
+
+
+we are looking at STEPNC as a possible digital template - although it does a lot of other things as well.
+http://www.steptools.com/ 
