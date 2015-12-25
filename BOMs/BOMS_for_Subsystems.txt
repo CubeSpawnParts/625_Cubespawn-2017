@@ -9,8 +9,8 @@ BOM For Enclosure (CubeFrame) Updated 10-29-2015
 (10)596x297x3mm Aluminum skin plates
 (16)544x25x25mm aluminum extrusion bars
 (24)M6x1x22mm button head socket head cap screws (BH-SHCS)
-(40)M6x1x10mm Pan head socket head cap screws (FH-SHCS)
-(166)M6x1x10mm flat head socket head cap screws (PH-SHCS)
+(40)M6x1x10mm Pan head socket head cap screws (PH-SHCS)
+(166)M6x1x10mm flat head socket head cap screws (FH-SHCS)
 (166)M6x1 Weld Nuts
 (22)M6x1x10mm button head socket head cap screws (BH-SHCS)
 (12)Rail Spacers
