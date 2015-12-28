@@ -19,5 +19,5 @@ Machinekit (CNC controller) to translate Gcode into motion on several different 
 http://www.machinekit.io/
 
 
-we are looking at STEPNC as a possible digital template - although it does a lot of other things as well.
+we are looking at STEPNC as a possible digital template - or at least a starting point for one - although it does a lot of other things as well.
 http://www.steptools.com/ 
