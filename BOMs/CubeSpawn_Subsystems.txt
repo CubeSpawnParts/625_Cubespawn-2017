@@ -18,4 +18,5 @@ the stock to make parts on the MillCube (Milling Machine Cube)
 
 A tool changer for the MillCube, which leads to a tool Setter to set tools with specific TLO (tool Length Offset) values and so on.
 
-Once the core functions are established (MillCube, LatheCube, 3DPrintCube and Surface Grinder) then an expansion toward "nice to have" machine types will help grow the system toward its goals of recursion, bootstrapping, and completeness.
+Once the core functions are established (MillCube, LatheCube, 3DPrintCube and Surface Grinder) then an expansion toward "nice to have" machine 
+types will help grow the system toward its goals of recursion, bootstrapping, and completeness.
